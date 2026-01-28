@@ -7,7 +7,7 @@ Dashboard Link: https://mb5xxdo4ar57ypbqozdxsc.streamlit.app/
 
 
 🎥 **Project Demo Video (Unlisted)**  
-👉  
+👉 https://drive.google.com/file/d/1wRh5IGo3-evQSLbiyvYaLKaGSWFsFqwV/view?usp=drivesdk 
 
 
 
